@@ -1,0 +1,7 @@
+INDEX VERSION 1.3+/Users/ML/Hochschule/GitHub/TurnierPlaner/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4293842216.index
+3055588449.index
+497008865.index
+436474863.index
+1755577712.index
+1904549961.index
